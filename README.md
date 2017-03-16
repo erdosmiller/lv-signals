@@ -17,6 +17,6 @@ In LabVIEW, The LV-Signals palette can be found in the ***Erdos Miller*** palett
 Dependencies
 ------------
 
-LV-Signals depends on [LV-Scripting](https://github.com/DBTaylor/erdosmiller/releases)
+LV-Signals depends on [LV-Scripting](https://github.com/erdosmiller/lv-scripting)
 
 Require LabVIEW 2015 or later
