@@ -1,0 +1,38 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="15008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,2!!!*Q(C=T:1R&lt;NN!%%7`YR22%3$K5RA+6,G=#RC)?F7[QFR!"F4'1"I&gt;Q&gt;0Q!,K#'Y0V8-&amp;8=-ESTO.K,&gt;-QZ4B)A'48Q[8_XZVZ8+YJF@:"?C_VL\:@W'8++_XP_:0*=&lt;_XCPVC4FU`W;^`G?)R`U3D^NPK4UILQ\A`[-@TD[5@]AV8,Z@&gt;C_=&lt;Z'C;[`:]Y%]?_@=4GGMSN.XT_E^NW@48^?5RPVXWV[YE'0(XSUGQ(P?&lt;Z8[=NU/`7V?\/]R@&gt;]0V&lt;8XC0&gt;?"Z?"@VA4N@.S@\]&gt;VIX&amp;@T&lt;J5HR`T/Z[\;^9[ZOO]&lt;&gt;J,(@@6,?&gt;[T2^J&lt;`(`["_Y4X,V\?(BR]-`;HVN[54CHEAC##?-1%`U2%`U2%`U2!`U1!`U1!`U1(&gt;U2X&gt;U2X&gt;U2T&gt;U1T&gt;U1T&gt;U1S]&gt;8?B#&amp;TK\EB20#C6*EQ4*:&amp;#58"+?B#@B38DYK91HY5FY%J[%BSF+?"+?B#@B38B9JI1HY5FY%J[%BV3&amp;*%N(BS@B)&lt;U#HI!HY!FY!BZ++O!*!)*C1?)A#2A+T/!GY!FY!BZO&amp;@!%0!&amp;0Q"0Q9#PA#8A#HI!HY'&amp;*W:5I.(V(BY=U=HA=(I@(Y8&amp;Y3#W(R_&amp;R?"Q?BY&gt;S=HA=(A@#+?AE"U(/)G?#]]0B=8A9Z0!Y0![0Q_0Q9*5XZ'6H?JK_I].D]"A]"I`"9`#11A;0Q70Q'$Q'$WFF]"A]"I`"9`"13A;0Q70Q'#"'5=L,3'9M.#9:AM($8TEN6NZ3&amp;")L8;K(6`61KBYWV5/E?DB58\LKSV2^3;K&lt;L\KJKJOFOAGK$[=+L1KD7E2V=4^2^VTPC"NC2WS*$&lt;%C&amp;M3-G0:,``,%_`N\X&gt;X&gt;[?&lt;G2LP&gt;4NPN6JP.2KP63IP&amp;1L0:4.0J^0!Z/[0PW]HQOX1LH@Z?@/T(\\@[R(DWF7#]_%+=XF\V`N8J\16RQPW-_0R]`&gt;.X[8`Y.OJ&gt;_49/^OAHG_RG"Q!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
+	<Property Name="NI.Lib.Version" Type="Str">0.0.0.0</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">LV-Create-Signals</Property>
+	<Property Name="NI.XClass.Name" Type="Str">LV-Create-Signals</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">LV-Create-Signals</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="XNode_Manager" Type="Str">1.5</Property>
+	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="AdaptToInputs.vi" Type="Ability VI" URL="../AdaptToInputs.vi">
+		<Property Name="NI.XItem.Name" Type="Str">AdaptToInputs</Property>
+	</Item>
+	<Item Name="Copy.vi" Type="Ability VI" URL="../Copy.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Copy</Property>
+	</Item>
+	<Item Name="GenerateCode.vi" Type="Ability VI" URL="../GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+	</Item>
+	<Item Name="GetTerms3.vi" Type="Ability VI" URL="../GetTerms3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetTerms3</Property>
+	</Item>
+	<Item Name="Image.vi" Type="Ability VI" URL="../Image.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Image</Property>
+	</Item>
+	<Item Name="SelectMenu3.vi" Type="Ability VI" URL="../SelectMenu3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">SelectMenu3</Property>
+	</Item>
+	<Item Name="BuildMenu3.vi" Type="Ability VI" URL="../BuildMenu3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">BuildMenu3</Property>
+	</Item>
+</XNode>
