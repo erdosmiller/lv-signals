@@ -19,4 +19,4 @@ Dependencies
 
 LV-Signals depends on [LV-Scripting](https://github.com/erdosmiller/lv-scripting)
 
-Require LabVIEW 2015 or later
+Requires LabVIEW 2015 or later
