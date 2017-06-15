@@ -1,8 +1,8 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <XNode LVVersion="15008000">
 	<Property Name="NI.Lib.Icon" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*J!!!*Q(C=T&gt;1^DN.A%-&lt;R:Y'#.D&gt;!I?!!5^,G#B%X')[1UJ3ZQJQ!+6&gt;)!8)^6]A6AL435L$3GL^@"D$;%#/&amp;#/S&gt;R(H?L^__NCSVY\HU4/L0(D0.:XJJ?KF(8;&lt;:N&gt;PHB&gt;=^W/2(_`R,&gt;K*^GMW.6X_C`54W7^_&amp;YW&gt;G0X.=M\W@;_`HWPM,WS`T[1`&lt;:X:``O;][Y&lt;B9@B(R\CW&gt;#.R4356F&amp;.'E3&gt;ZEC&gt;ZEC&gt;ZEA&gt;ZE!&gt;ZE!&gt;ZE$OZETOZETOZEROZE2OZE2OZE&lt;?48/1C&amp;TG\ECS?,*2-GES1&gt;);CZ#0R**\%EXDYK=34?"*0YEE]&gt;&amp;(C34S**`%E(I9J]33?R*.Y%A^4.5GWERR0YG&amp;[":\!%XA#4_"B317?!"!M&amp;EQ=4!*$17.Q%8A#4_$B5I%H]!3?Q".Y;&amp;&lt;A#4S"*`!%(I;U89GG'5^S0%QDR_.Y()`D=4R-,=@D?"S0YX%],#@(YXA=B,/A-TE%/9/=$MY0R_.Y_*,D=4S/R`%Y(JL;(@+W-[.G0-HR'"\$9XA-D_&amp;B#BE?QW.Y$)`B96I:(M.D?!S0Y7%J'2\$9XA-C,%IS]O9T"BI&gt;$)#Q].@?VKMX;6I%GOH6!_P[K&amp;507SKBUDV=+BOOOJGKG[3;P.6G[L;,.5GK0YZ&amp;6K&amp;53WC'DRWV*(0!\7H&gt;N37WF"L;E5NK=5Y^#^X0"[0/BQ/WO`XWOVWWG[XWGQW7K`87KV77C[87CQ70VZH,TC`(4@4^^,^-(SY[Y9XU[,BU`1^=NM.L\ZUQ`PR_X-XP"WT\^`D]6&amp;[/KG8F&amp;'PK[SSVP\TP@1`P"PVJ,U&lt;*XPU&amp;??XK;5!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">352354304</Property>
-	<Property Name="NI.Lib.Version" Type="Str">0.0.0.0</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Property Name="NI.XClass.Loc.Name" Type="Str">LV-Read-Write-Signals</Property>
 	<Property Name="NI.XClass.Name" Type="Str">LV-Read-Write-Signals</Property>
@@ -61,4 +61,7 @@
 	<Item Name="Build Display Selections.vi" Type="VI" URL="../Build Display Selections.vi"/>
 	<Item Name="ID Chain.vi" Type="VI" URL="../ID Chain.vi"/>
 	<Item Name="Set Value.vi" Type="VI" URL="../Set Value.vi"/>
+	<Item Name="Read-Write-Signals.UpdateStateWithRef.vi" Type="Ability VI" URL="../Read-Write-Signals.UpdateStateWithRef.vi">
+		<Property Name="NI.XItem.Name" Type="Str">UpdateStateWithRef</Property>
+	</Item>
 </XNode>
