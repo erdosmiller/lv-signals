@@ -24,9 +24,7 @@
 		</Item>
 		<Item Name="Create-Signals.xnode" Type="XNode" URL="../source/create-xnode/Create-Signals.xnode"/>
 		<Item Name="Destroy-Signals.xnode" Type="XNode" URL="../source/destroy-xnode/Destroy-Signals.xnode"/>
-		<Item Name="Library.lvlib" Type="Library" URL="../Library.lvlib"/>
 		<Item Name="Read-Write-Signals.xnode" Type="XNode" URL="../source/read-write-xnode/Read-Write-Signals.xnode"/>
-		<Item Name="Untitled 3.vi" Type="VI" URL="../Untitled 3.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
@@ -55,6 +53,7 @@
 			<Item Name="Read-Write-Signals Selection.ctl" Type="VI" URL="../source/read-write-xnode/Read-Write-Signals Selection.ctl"/>
 			<Item Name="Read-Write-Signals Sub Item Type.ctl" Type="VI" URL="../source/read-write-xnode/Read-Write-Signals Sub Item Type.ctl"/>
 			<Item Name="Read-Write-Signals Sub Item.ctl" Type="VI" URL="../source/read-write-xnode/Read-Write-Signals Sub Item.ctl"/>
+			<Item Name="Read-Write-Signals.Draw Multiline Text At Point.vi" Type="VI" URL="../source/read-write-xnode/Read-Write-Signals.Draw Multiline Text At Point.vi"/>
 			<Item Name="Set Selections.vi" Type="VI" URL="../source/read-write-xnode/Set Selections.vi"/>
 			<Item Name="Set Value.vi" Type="VI" URL="../source/read-write-xnode/Set Value.vi"/>
 		</Item>
